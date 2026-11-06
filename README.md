@@ -71,20 +71,6 @@ Também tenho experiência profissional com atendimento e suporte em tecnologia,
 - ✧ Estou sempre buscando aprender novas ferramentas e tecnologias.
 - ✧ Inglês em nível intermediário, em constante evolução.
 
-## 💌 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-me_encontre-e8bfd1?style=for-the-badge&logo=linkedin&logoColor=65465a" alt="LinkedIn">
-</a>
-<a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://img.shields.io/badge/E--mail-fale_comigo-d9c7eb?style=for-the-badge&logo=gmail&logoColor=65465a" alt="E-mail">
-</a>
-
-<br><br>
-<img src="assets/focus-card.svg" width="420" alt="Learning by building">
-
 <sub>Feito com carinho, café e algumas linhas de código. ♡</sub>
 
 </div>
