@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="✿  Em constante evolução">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f6"/><stop offset="1" stop-color="#f9efff"/></linearGradient></defs>
+ <rect x="2" y="2" width="996" height="276" rx="27" fill="url(#bg)" stroke="#f2d4e5" stroke-width="3"/>
+ <circle cx="949" cy="52" r="24" fill="#f6dce9"/><circle cx="50" cy="237" r="19" fill="#eedaf6"/>
+ <path d="M918 34 l7 14 14 7 -14 7 -7 14 -7 -14 -14 -7 14 -7z" fill="#e7a6c9"/>
+ 
+<text x="45" y="64" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700" fill="#ad578c">✿  Em constante evolução</text>
+<text x="46" y="102" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="400" fill="#a67996">um commit de cada vez</text>
+<rect x="43" y="120" width="913" height="56" rx="16" fill="#ffffff" fill-opacity=".78"/>
+<text x="63" y="152" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700" fill="#c2799e">♡</text>
+<text x="117" y="150" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#97577c">Estudando agora</text>
+<text x="117" y="171" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="400" fill="#82677b">Desenvolvimento, segurança, testes e automação.</text>
+<rect x="43" y="185" width="913" height="56" rx="16" fill="#ffffff" fill-opacity=".78"/>
+<text x="63" y="217" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700" fill="#c2799e">✦</text>
+<text x="117" y="215" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#97577c">Meu objetivo</text>
+<text x="117" y="236" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="400" fill="#82677b">Criar soluções digitais úteis, acessíveis e bem pensadas.</text>
+</svg>

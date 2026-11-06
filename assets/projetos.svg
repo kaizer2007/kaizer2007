@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-label="♡  Projetos &amp; interesses">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f6"/><stop offset="1" stop-color="#f9efff"/></linearGradient></defs>
+ <rect x="2" y="2" width="996" height="406" rx="27" fill="url(#bg)" stroke="#f2d4e5" stroke-width="3"/>
+ <circle cx="949" cy="52" r="24" fill="#f6dce9"/><circle cx="50" cy="367" r="19" fill="#eedaf6"/>
+ <path d="M918 34 l7 14 14 7 -14 7 -7 14 -7 -14 -14 -7 14 -7z" fill="#e7a6c9"/>
+ 
+<text x="45" y="64" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700" fill="#ad578c">♡  Projetos &amp; interesses</text>
+<text x="46" y="102" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="400" fill="#a67996">coisas que gosto de construir e aprender</text>
+<rect x="43" y="120" width="913" height="56" rx="16" fill="#ffffff" fill-opacity=".78"/>
+<text x="63" y="152" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700" fill="#c2799e">✧</text>
+<text x="117" y="150" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#97577c">Aplicações e integrações</text>
+<text x="117" y="171" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="400" fill="#82677b">Projetos acadêmicos com C# e consumo de APIs.</text>
+<rect x="43" y="185" width="913" height="56" rx="16" fill="#ffffff" fill-opacity=".78"/>
+<text x="63" y="217" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700" fill="#c2799e">✧</text>
+<text x="117" y="215" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#97577c">Interfaces responsivas</text>
+<text x="117" y="236" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="400" fill="#82677b">Construção e manutenção de componentes com React.</text>
+<rect x="43" y="250" width="913" height="56" rx="16" fill="#ffffff" fill-opacity=".78"/>
+<text x="63" y="282" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700" fill="#c2799e">✧</text>
+<text x="117" y="280" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#97577c">Operações de TI</text>
+<text x="117" y="301" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="400" fill="#82677b">Organização de ambientes e acompanhamento de solicitações.</text>
+<rect x="43" y="315" width="913" height="56" rx="16" fill="#ffffff" fill-opacity=".78"/>
+<text x="63" y="347" font-family="Verdana, Arial, sans-serif" font-size="25" font-weight="700" fill="#c2799e">✧</text>
+<text x="117" y="345" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#97577c">Qualidade &amp; segurança</text>
+<text x="117" y="366" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="400" fill="#82677b">Interesse em testes, automação e engenharia de software.</text>
+</svg>
