@@ -9,5 +9,5 @@
   <img src="assets/projetos.svg" alt="Projetos e interesses: aplicações com C# e APIs, interfaces React, operações de TI e segurança" width="100%" />
   <img src="assets/aprendendo.svg" alt="Estou aprendendo sobre desenvolvimento, segurança e automação" width="100%" />
   <img src="assets/divider.svg" alt="♡ ✦ ♡" width="100%" />
-  <p><sub>made with ♡, café e muitos commits ☕ ✦</sub></p>
+  <p><sub>made with ♡, energético e muitos commits ☕ ✦</sub></p>
 </div>
